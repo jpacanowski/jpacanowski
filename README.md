@@ -1,6 +1,6 @@
 # About me
 
-A lover of FreeBSD, OpenBSD, Slackware/Debian (now Devuan), UNIX philosophy, and ancient Asian philosophies. When I am offline, I am learning languages, reading books or meditating. A Christian and Buddhist in one person. Minimalist, vegetarian.
+A lover of FreeBSD, OpenBSD, Slackware/Debian (now Devuan & GNU Guix), UNIX philosophy, and ancient Asian philosophies. When I am offline, I am learning languages, reading books or meditating. A Christian and Buddhist in one person. Minimalist, vegetarian.
 
 # Current projects
 
