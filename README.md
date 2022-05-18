@@ -2,6 +2,8 @@
 
 A lover of FreeBSD, OpenBSD, Slackware/Debian (now Devuan & GNU Guix), UNIX philosophy, and ancient Asian philosophies. When I am offline, I am learning languages, reading books or meditating. A Christian and Buddhist in one person. Minimalist, vegetarian.
 
+On a daily basis, I am working on backend projects. In my spare time, I am developing my own operating system.
+
 # Current projects
 
 - [Very lightweight content management system (CMS)](https://github.com/jpacanowski/MicroCMS)
