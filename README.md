@@ -4,6 +4,9 @@ A lover of FreeBSD, OpenBSD, Slackware/Debian (now Devuan & GNU Guix), UNIX phil
 
 On a daily basis, I am working on backend projects. In my spare time, I am developing my own operating system.
 
+daily work: PHP 7+, Laravel, JS/ES6+, React.js, Node.js, HTML5, CSS3, SCSS, Flexbox, RWD, WCAG
+spare time: C, Linux API, GTK4, osdev, FreeBSD, OpenBSD, ARM, RISC-V, Atari ST/Falcon dev
+
 # Current projects
 
 - [Very lightweight content management system (CMS)](https://github.com/jpacanowski/MicroCMS)
