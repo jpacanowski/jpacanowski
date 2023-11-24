@@ -1,10 +1,10 @@
 # About me
 
-A lover of FreeBSD, OpenBSD, Slackware/Debian (now Devuan & GNU Guix), UNIX philosophy, and ancient Asian philosophies. When I am offline, I am learning languages, reading books or meditating. A Christian and Buddhist in one person. Minimalist, vegetarian.
+A lover of real unix operating systems (such as FreeBSD, OpenBSD, Plan 9), UNIX philosophy, and ancient Asian philosophies. When I am offline, I am learning languages, reading books or meditating. A Christian and Buddhist in one person. Minimalist, vegetarian.
 
 On a daily basis, I am working on backend projects. In my spare time, I am developing my own operating system.
 
-__daily work:__ PHP 7+, Laravel, JS/ES6+, HTML5, CSS3, SCSS, Flexbox, RWD, WCAG
+__daily work:__ PHP 7+, Laravel, JS/ES6+, React, HTML5, CSS3, SCSS, Flexbox, RWD, WCAG
 
 __spare time:__ C, Linux API, GTK4, osdev, FreeBSD, OpenBSD, ARM, RISC-V, Atari ST/Falcon dev
 
