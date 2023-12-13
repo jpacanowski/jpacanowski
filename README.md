@@ -1,5 +1,7 @@
 # About me
 
+I'm a Laravel expert and currently mastering React. I plan also to learn Next.
+
 A lover of real unix operating systems (such as FreeBSD, OpenBSD, Plan 9), UNIX philosophy, ancient Asian philosophies, ancient languages, cosmology and retro computers. When I am offline, I am learning languages, reading books or meditating. A Christian and Buddhist in one person. Minimalist, vegetarian.
 
 On a daily basis, I am working on backend projects. In my spare time, I am developing my own operating system.
