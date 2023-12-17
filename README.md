@@ -12,6 +12,7 @@ __spare time:__ C, Linux API, GTK4, osdev, FreeBSD, OpenBSD, ARM, RISC-V, Atari 
 
 ![Laravel](https://img.shields.io/badge/Laravel-E95420?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-0099ff?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/Vue-0099ff?style=for-the-badge&logo=vue&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-E95420?style=for-the-badge&logo=debian&logoColor=white)
